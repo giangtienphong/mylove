@@ -80,7 +80,7 @@ body{
     cursor: pointer;
   }
  .btn3 > span {
-    display: block;
+    display: contents;
     padding: 10px 20px;
     font-size: 17px;
     background: #0e0e10;
